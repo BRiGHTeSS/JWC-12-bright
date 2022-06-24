@@ -1,0 +1,338 @@
+* {
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Sarabun';
+    color: #FFFFFF;
+}
+
+
+body {
+    display: block;
+    justify-content: center;
+    align-content: center;
+    position: relative;
+
+
+    background: #612378;
+
+    /* Header Box*/
+    box-sizing: border-box;
+
+}
+
+
+.h-otp {
+    position: absolute;
+    width: 210px;
+    height: 65px;
+    left: 866px;
+    top: 154px;
+
+    /* หมอหมึก font */
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 65px;
+}
+
+.des-otp {
+    position: absolute;
+    width: 750px;
+    height: 36px;
+    left: 584px;
+    top: 264px;
+
+    /* คำอธิบาย */
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 36px;
+}
+
+.h-link {
+    width: 1920px;
+    height: 96px;
+
+    background: #612378;
+    border: 1px solid #FFFFFF;
+
+
+    /* About Essay Quene */
+
+    font-family: 'Sarabun';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 36px;
+
+    color: #FFFFFF;
+}
+
+.ab-btn {
+    /* เกี่ยวกับหมอหมึก */
+    position: absolute;
+    width: 210px;
+    height: 36px;
+    left: 1416px;
+    top: 30px;
+}
+
+.es-btn {
+    /* บทความ */
+    position: absolute;
+    width: 100px;
+    height: 36px;
+    left: 1659px;
+    top: 30px;
+}
+
+.q-btn {
+    /* จองคิว */
+    position: absolute;
+    width: 77px;
+    height: 36px;
+    left: 1806px;
+    top: 30px;
+}
+
+.q-wbtn {
+
+    position: absolute;
+    width: 175px;
+    height: 75px;
+    left: 873px;
+    top: 330px;
+
+    background: #FFFFFF;
+
+    font-family: 'Sarabun';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 71px;
+    text-align: center;
+
+    color: #612378;
+}
+
+.history {
+    position: absolute;
+    width: 235px;
+    height: 47px;
+    left: 267px;
+    top: 553px;
+
+    font-family: 'Sarabun';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 47px;
+}
+
+.predict {
+    position: absolute;
+    width: 363px;
+    height: 47px;
+    left: 1078px;
+    top: 1672px;
+
+    font-family: 'Sarabun';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 47px;
+}
+
+.his-des {
+    position: absolute;
+    width: 670px;
+    height: 216px;
+    left: 267px;
+    top: 623px;
+
+    font-family: 'Sarabun';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 36px;
+}
+
+.pre-des {
+    position: absolute;
+    width: 549px;
+    height: 500px;
+    left: 1080px;
+    top: 1725px;
+
+    font-family: 'Sarabun';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 36px;
+}
+
+.review {
+    position: absolute;
+    width: 230px;
+    height: 47px;
+    left: 844px;
+    top: 1002px;
+
+    font-family: 'Sarabun';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 47px;
+}
+
+.math {
+    position: absolute;
+    width: 200px;
+    height: 36px;
+    left: 360px;
+    top: 1339px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 36px;
+}
+
+.math-comm {
+    position: absolute;
+    width: 310px;
+    height: 78px;
+    left: 297px;
+    top: 1404px;
+
+    font-family: 'Sarabun';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.jack {
+    position: absolute;
+    width: 170px;
+    height: 36px;
+    left: 865px;
+    top: 1339px;
+
+    font-family: 'Sarabun';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 36px;
+}
+
+.jack-comm {
+    position: absolute;
+    width: 380px;
+    height: 78px;
+    left: 760px;
+    top: 1404px;
+
+    font-family: 'Sarabun';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.nam {
+    position: absolute;
+    width: 180px;
+    height: 36px;
+    left: 1348px;
+    top: 1339px;
+
+    font-family: 'Sarabun';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 36px;
+}
+
+.nam-comm {
+    position: absolute;
+    width: 310px;
+    height: 130px;
+    left: 1271px;
+    top: 1391px;
+
+    font-family: 'Sarabun';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.magiciancat {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 510px;
+    height: 361px;
+    left: 1142px;
+    top: 518px;
+
+    background: url(magician-cat.jpg);
+    border: 1px solid #FFFFFF;
+}
+
+.busicat {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 180px;
+    height: 180px;
+    left: 362px;
+    top: 1141px;
+
+    background: url(businesscat.jpg);
+    border-radius: 50%;
+}
+
+.actcat {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 180px;
+    height: 180px;
+    left: 852px;
+    top: 1141px;
+
+    background: url(actorcat.jpg);
+    border-radius: 50%;
+}
+
+.stucat {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 180px;
+    height: 180px;
+    left: 1342px;
+    top: 1141px;
+
+    background: url(studentcat.jpg);
+    border-radius: 50%;
+}
+
+.locate {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 540px;
+    height: 484px;
+    left: 291px;
+    top: 1670px;
+
+    background: url(KMITL-ITtown.jpg);
+    border: 1px solid #FFFFFF;
+}
